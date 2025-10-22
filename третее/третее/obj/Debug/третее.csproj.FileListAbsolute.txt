@@ -1,0 +1,7 @@
+C:\Users\mniki\Desktop\третее\третее\bin\Debug\третее.exe.config
+C:\Users\mniki\Desktop\третее\третее\bin\Debug\третее.exe
+C:\Users\mniki\Desktop\третее\третее\bin\Debug\третее.pdb
+C:\Users\mniki\Desktop\третее\третее\obj\Debug\третее.csproj.AssemblyReference.cache
+C:\Users\mniki\Desktop\третее\третее\obj\Debug\третее.csproj.CoreCompileInputs.cache
+C:\Users\mniki\Desktop\третее\третее\obj\Debug\третее.exe
+C:\Users\mniki\Desktop\третее\третее\obj\Debug\третее.pdb
